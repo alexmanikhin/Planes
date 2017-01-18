@@ -1,0 +1,6 @@
+#ignore files in the target directory and underdirectories
+/target/*
+
+
+
+
